@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.CookiePolicy;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BasicCrud.Controllers
@@ -35,11 +36,19 @@ namespace BasicCrud.Controllers
         [HttpGet(Name = "GetProduct")]
         public Product GetProduct(int index)
         {
-            return ProductsList.MyList[index];
+            try
+            {
+                return ProductsList.MyList[index];
+            }
+            catch
+            {
+                return null;
+            }
+            
         }
 
         [HttpGet(Name = "GetProducts")]
-        public IEnumerable<Product> GetProducts(int index)
+        public IEnumerable<Product> GetProducts()
         {
             return ProductsList.MyList;
         }
@@ -78,6 +87,14 @@ namespace BasicCrud.Controllers
         public IEnumerable<Product> DeleteProduct(int index)
         {
             ProductsList.MyList.RemoveAt(index);
+
+            return ProductsList.MyList;
+        }
+
+        [HttpDelete(Name = "DeleteAllProducts")]
+        public IEnumerable<Product> DeleteAllProducts()
+        {
+            ProductsList.MyList.Clear();
 
             return ProductsList.MyList;
         }
