@@ -1,0 +1,64 @@
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\appsettings.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.exe
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.deps.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.runtimeconfig.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.pdb
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.csproj.AssemblyReference.cache
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.AssemblyInfoInputs.cache
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.AssemblyInfo.cs
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.csproj.CoreCompileInputs.cache
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.BasicCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.BasicCrud.props
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BasicCrud.props
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BasicCrud.props
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\scopedcss\bundle\BasicCrud.styles.css
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.csproj.CopyComplete
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\refint\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.pdb
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.genruntimeconfig.cache
+C:\Users\ftdec\OneDrive\Desktop\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\ref\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\appsettings.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.exe
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.deps.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.runtimeconfig.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\BasicCrud.pdb
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.csproj.AssemblyReference.cache
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.AssemblyInfoInputs.cache
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.AssemblyInfo.cs
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.csproj.CoreCompileInputs.cache
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.BasicCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.BasicCrud.props
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BasicCrud.props
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BasicCrud.props
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\scopedcss\bundle\BasicCrud.styles.css
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.csproj.CopyComplete
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\refint\BasicCrud.dll
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.pdb
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\BasicCrud.genruntimeconfig.cache
+C:\Users\ftdec\OneDrive\Desktop\Roy Projects\BasicCrud\BasicCrud\BasicCrud\obj\Debug\net6.0\ref\BasicCrud.dll
